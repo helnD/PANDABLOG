@@ -1,0 +1,15 @@
+﻿
+using Domain;
+using Microsoft.AspNetCore.Mvc;
+
+namespace WebApplication.Controllers
+{
+    public class HomeController : Controller
+    {
+
+        public IActionResult Index([FromServices]Blog blog)
+        {
+            return View(blog);
+        }
+    }
+}
