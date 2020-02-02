@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\WebApplication\\WebApplication.csproj": {}
+    "V:\\PANDABLOG\\WebApplication\\WebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\Domain\\Domain.csproj": {
+    "V:\\PANDABLOG\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\Domain\\Domain.csproj",
+        "projectUniqueName": "V:\\PANDABLOG\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\Domain\\Domain.csproj",
+        "projectPath": "V:\\PANDABLOG\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Владимир\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\Domain\\obj\\",
+        "outputPath": "V:\\PANDABLOG\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\WebApplication\\WebApplication.csproj": {
+    "V:\\PANDABLOG\\WebApplication\\WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\WebApplication\\WebApplication.csproj",
+        "projectUniqueName": "V:\\PANDABLOG\\WebApplication\\WebApplication.csproj",
         "projectName": "WebApplication",
-        "projectPath": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\WebApplication\\WebApplication.csproj",
+        "projectPath": "V:\\PANDABLOG\\WebApplication\\WebApplication.csproj",
         "packagesPath": "C:\\Users\\Владимир\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\WebApplication\\obj\\",
+        "outputPath": "V:\\PANDABLOG\\WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -87,8 +87,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\Domain\\Domain.csproj"
+              "V:\\PANDABLOG\\Domain\\Domain.csproj": {
+                "projectPath": "V:\\PANDABLOG\\Domain\\Domain.csproj"
               }
             }
           }
@@ -102,6 +102,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Microsoft.AspNetCore.SpaServices": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.1, )"

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Владимир\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Владимир\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_PANDABLOG.945566430.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Владимир\RiderProjects\PANDABLOG" t="IncludeFlat">
+    <e p="C:\Users\Владимир\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_PANDABLOG.-111950242.00" t="ExcludeRecursive" />
+    <e p="V:\PANDABLOG" t="IncludeFlat">
       <e p="Domain" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Domain.csproj" t="IncludeRecursive" />
@@ -38,6 +38,27 @@
           <e p="Post.cs" t="Include" />
           <e p="SQLRepository.cs" t="Include" />
         </e>
+        <e p="node_modules\aspnet-webpack" t="IncludeRecursive" />
+        <e p="node_modules\babel-core" t="IncludeRecursive" />
+        <e p="node_modules\babel-loader" t="IncludeRecursive" />
+        <e p="node_modules\babel-polyfill" t="IncludeRecursive" />
+        <e p="node_modules\babel-preset-env" t="IncludeRecursive" />
+        <e p="node_modules\babel-preset-es2015" t="IncludeRecursive" />
+        <e p="node_modules\babel-preset-react" t="IncludeRecursive" />
+        <e p="node_modules\babel-preset-stage-0" t="IncludeRecursive" />
+        <e p="node_modules\css-loader" t="IncludeRecursive" />
+        <e p="node_modules\file-loader" t="IncludeRecursive" />
+        <e p="node_modules\isomorphic-fetch" t="IncludeRecursive" />
+        <e p="node_modules\query-string" t="IncludeRecursive" />
+        <e p="node_modules\react" t="IncludeRecursive" />
+        <e p="node_modules\react-dom" t="IncludeRecursive" />
+        <e p="node_modules\react-redux" t="IncludeRecursive" />
+        <e p="node_modules\react-router-dom" t="IncludeRecursive" />
+        <e p="node_modules\redux" t="IncludeRecursive" />
+        <e p="node_modules\redux-thunk" t="IncludeRecursive" />
+        <e p="node_modules\style-loader" t="IncludeRecursive" />
+        <e p="node_modules\symbol-observable" t="IncludeRecursive" />
+        <e p="node_modules\webpack" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -45,6 +66,8 @@
             </e>
           </e>
         </e>
+        <e p="package-lock.json" t="Include" />
+        <e p="package.json" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="launchSettings.json" t="Include" />
@@ -55,73 +78,94 @@
           <e p="_ViewStart.cshtml" t="Include" />
           <e p="Home" t="Include">
             <e p="Index.cshtml" t="Include" />
-            <e p="Privacy.cshtml" t="Include" />
-          </e>
-          <e p="Shared" t="Include">
-            <e p="_Layout.cshtml" t="Include" />
-            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
           </e>
         </e>
         <e p="WebApplication.csproj" t="IncludeRecursive" />
+        <e p="webpack.config.js" t="Include" />
         <e p="wwwroot" t="Include">
-          <e p="css" t="Include">
-            <e p="site.css" t="Include" />
+          <e p="assets" t="Include">
+            <e p="bundle.js" t="Include" />
+            <e p="bundle.js.map" t="Include" />
           </e>
-          <e p="favicon.ico" t="Include" />
-          <e p="js" t="Include">
-            <e p="site.js" t="Include" />
-          </e>
-          <e p="lib" t="Include">
-            <e p="bootstrap" t="Include">
-              <e p="dist" t="Include">
-                <e p="css" t="Include">
-                  <e p="bootstrap-grid.css" t="Include" />
-                  <e p="bootstrap-grid.css.map" t="Include" />
-                  <e p="bootstrap-grid.min.css" t="Include" />
-                  <e p="bootstrap-grid.min.css.map" t="Include" />
-                  <e p="bootstrap-reboot.css" t="Include" />
-                  <e p="bootstrap-reboot.css.map" t="Include" />
-                  <e p="bootstrap-reboot.min.css" t="Include" />
-                  <e p="bootstrap-reboot.min.css.map" t="Include" />
-                  <e p="bootstrap.css" t="Include" />
-                  <e p="bootstrap.css.map" t="Include" />
-                  <e p="bootstrap.min.css" t="Include" />
-                  <e p="bootstrap.min.css.map" t="Include" />
-                </e>
-                <e p="js" t="Include">
-                  <e p="bootstrap.bundle.js" t="Include" />
-                  <e p="bootstrap.bundle.js.map" t="Include" />
-                  <e p="bootstrap.bundle.min.js" t="Include" />
-                  <e p="bootstrap.bundle.min.js.map" t="Include" />
-                  <e p="bootstrap.js" t="Include" />
-                  <e p="bootstrap.js.map" t="Include" />
-                  <e p="bootstrap.min.js" t="Include" />
-                  <e p="bootstrap.min.js.map" t="Include" />
-                </e>
-              </e>
-              <e p="LICENSE" t="Include" />
+          <e p="PANDABLOG" t="Include">
+            <e p=".gitignore" t="Include" />
+            <e p="node_modules\@babel\parser" t="IncludeRecursive" />
+            <e p="node_modules\@babel\types" t="IncludeRecursive" />
+            <e p="node_modules\@jest\console" t="IncludeRecursive" />
+            <e p="node_modules\@jest\fake-timers" t="IncludeRecursive" />
+            <e p="node_modules\@jest\source-map" t="IncludeRecursive" />
+            <e p="node_modules\@jest\test-result" t="IncludeRecursive" />
+            <e p="node_modules\@jest\types" t="IncludeRecursive" />
+            <e p="node_modules\@mrmlnc\readdir-enhanced" t="IncludeRecursive" />
+            <e p="node_modules\@nodelib\fs.stat" t="IncludeRecursive" />
+            <e p="node_modules\@testing-library\jest-dom" t="IncludeRecursive" />
+            <e p="node_modules\@testing-library\react" t="IncludeRecursive" />
+            <e p="node_modules\@testing-library\user-event" t="IncludeRecursive" />
+            <e p="node_modules\@types" t="IncludeRecursive">
+              <e p="babel__generator" t="IncludeRecursive" />
+              <e p="babel__template" t="IncludeRecursive" />
+              <e p="babel__traverse" t="IncludeRecursive" />
+              <e p="events" t="IncludeRecursive" />
+              <e p="istanbul-lib-coverage" t="IncludeRecursive" />
+              <e p="istanbul-lib-report" t="IncludeRecursive" />
+              <e p="minimatch" t="IncludeRecursive" />
+              <e p="node" t="IncludeRecursive" />
+              <e p="prop-types" t="IncludeRecursive" />
+              <e p="react" t="IncludeRecursive" />
+              <e p="react-dom" t="IncludeRecursive" />
+              <e p="testing-library__dom" t="IncludeRecursive" />
+              <e p="yargs-parser" t="IncludeRecursive" />
             </e>
-            <e p="jquery" t="Include">
-              <e p="dist" t="Include">
-                <e p="jquery.js" t="Include" />
-                <e p="jquery.min.js" t="Include" />
-                <e p="jquery.min.map" t="Include" />
-              </e>
-              <e p="LICENSE.txt" t="Include" />
+            <e p="node_modules\@typescript-eslint\experimental-utils" t="IncludeRecursive" />
+            <e p="node_modules\@typescript-eslint\parser" t="IncludeRecursive" />
+            <e p="node_modules\@typescript-eslint\typescript-estree" t="IncludeRecursive" />
+            <e p="node_modules\babel-jest" t="IncludeRecursive" />
+            <e p="node_modules\chalk" t="IncludeRecursive" />
+            <e p="node_modules\chokidar" t="IncludeRecursive" />
+            <e p="node_modules\csstype" t="IncludeRecursive" />
+            <e p="node_modules\dotenv" t="IncludeRecursive" />
+            <e p="node_modules\dotenv-expand" t="IncludeRecursive" />
+            <e p="node_modules\fast-glob" t="IncludeRecursive" />
+            <e p="node_modules\jest" t="IncludeRecursive" />
+            <e p="node_modules\jest-haste-map" t="IncludeRecursive" />
+            <e p="node_modules\jest-message-util" t="IncludeRecursive" />
+            <e p="node_modules\jest-mock" t="IncludeRecursive" />
+            <e p="node_modules\jest-resolve" t="IncludeRecursive" />
+            <e p="node_modules\jest-serializer" t="IncludeRecursive" />
+            <e p="node_modules\jest-util" t="IncludeRecursive" />
+            <e p="node_modules\jest-worker" t="IncludeRecursive" />
+            <e p="node_modules\pretty-format" t="IncludeRecursive" />
+            <e p="node_modules\prop-types" t="IncludeRecursive" />
+            <e p="node_modules\react" t="IncludeRecursive" />
+            <e p="node_modules\react-dom" t="IncludeRecursive" />
+            <e p="node_modules\react-scripts" t="IncludeRecursive" />
+            <e p="node_modules\realpath-native" t="IncludeRecursive" />
+            <e p="node_modules\source-map" t="IncludeRecursive" />
+            <e p="node_modules\upath" t="IncludeRecursive" />
+            <e p="node_modules\worker-farm" t="IncludeRecursive" />
+            <e p="package-lock.json" t="Include" />
+            <e p="package.json" t="Include" />
+            <e p="public" t="Include">
+              <e p="index.html" t="Include" />
+              <e p="manifest.json" t="Include" />
+              <e p="robots.txt" t="Include" />
             </e>
-            <e p="jquery-validation" t="Include">
-              <e p="dist" t="Include">
-                <e p="additional-methods.js" t="Include" />
-                <e p="additional-methods.min.js" t="Include" />
-                <e p="jquery.validate.js" t="Include" />
-                <e p="jquery.validate.min.js" t="Include" />
+            <e p="README.md" t="Include" />
+            <e p="src" t="Include">
+              <e p="App.css" t="Include" />
+              <e p="App.js" t="Include" />
+              <e p="components" t="Include">
+                <e p="info.js" t="Include" />
+                <e p="Post.js" t="Include" />
+                <e p="PostList.js" t="Include" />
+                <e p="screen.js" t="Include" />
               </e>
-              <e p="LICENSE.md" t="Include" />
-            </e>
-            <e p="jquery-validation-unobtrusive" t="Include">
-              <e p="jquery.validate.unobtrusive.js" t="Include" />
-              <e p="jquery.validate.unobtrusive.min.js" t="Include" />
-              <e p="LICENSE.txt" t="Include" />
+              <e p="index.css" t="Include" />
+              <e p="index.js" t="Include" />
+              <e p="logo.svg" t="Include" />
+              <e p="photo.jpg" t="Include" />
+              <e p="serviceWorker.js" t="Include" />
+              <e p="setupTests.js" t="Include" />
             </e>
           </e>
         </e>

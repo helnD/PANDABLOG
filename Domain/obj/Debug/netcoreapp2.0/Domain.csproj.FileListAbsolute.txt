@@ -6,3 +6,11 @@ C:\Users\Владимир\RiderProjects\PANDABLOG\Domain\obj\Debug\netcoreapp2.0
 C:\Users\Владимир\RiderProjects\PANDABLOG\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
 C:\Users\Владимир\RiderProjects\PANDABLOG\Domain\obj\Debug\netcoreapp2.0\Domain.dll
 C:\Users\Владимир\RiderProjects\PANDABLOG\Domain\obj\Debug\netcoreapp2.0\Domain.pdb
+V:\PANDABLOG\Domain\bin\Debug\netcoreapp2.0\Domain.deps.json
+V:\PANDABLOG\Domain\bin\Debug\netcoreapp2.0\Domain.dll
+V:\PANDABLOG\Domain\bin\Debug\netcoreapp2.0\Domain.pdb
+V:\PANDABLOG\Domain\obj\Debug\netcoreapp2.0\Domain.csprojAssemblyReference.cache
+V:\PANDABLOG\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfoInputs.cache
+V:\PANDABLOG\Domain\obj\Debug\netcoreapp2.0\Domain.AssemblyInfo.cs
+V:\PANDABLOG\Domain\obj\Debug\netcoreapp2.0\Domain.dll
+V:\PANDABLOG\Domain\obj\Debug\netcoreapp2.0\Domain.pdb
