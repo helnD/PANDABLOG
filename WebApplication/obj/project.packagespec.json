@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "V:\\PANDABLOG\\WebApplication\\WebApplication.csproj",
+    "projectUniqueName": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\WebApplication\\WebApplication.csproj",
     "projectName": "WebApplication",
-    "projectPath": "V:\\PANDABLOG\\WebApplication\\WebApplication.csproj",
-    "outputPath": "V:\\PANDABLOG\\WebApplication\\obj\\",
+    "projectPath": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\WebApplication\\WebApplication.csproj",
+    "outputPath": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\WebApplication\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -19,8 +19,8 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "V:\\PANDABLOG\\Domain\\Domain.csproj": {
-            "projectPath": "V:\\PANDABLOG\\Domain\\Domain.csproj"
+          "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\Domain\\Domain.csproj": {
+            "projectPath": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\Domain\\Domain.csproj"
           }
         }
       }

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "V:\\PANDABLOG\\Domain\\Domain.csproj",
+    "projectUniqueName": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\Domain\\Domain.csproj",
     "projectName": "Domain",
-    "projectPath": "V:\\PANDABLOG\\Domain\\Domain.csproj",
-    "outputPath": "V:\\PANDABLOG\\Domain\\obj\\",
+    "projectPath": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\Domain\\Domain.csproj",
+    "outputPath": "C:\\Users\\Владимир\\RiderProjects\\PANDABLOG\\Domain\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

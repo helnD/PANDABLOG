@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Владимир\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Владимир\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_PANDABLOG.-111950242.00" t="ExcludeRecursive" />
-    <e p="V:\PANDABLOG" t="IncludeFlat">
+    <e p="C:\Users\Владимир\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_PANDABLOG.945566430.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Владимир\RiderProjects\PANDABLOG" t="IncludeFlat">
       <e p="Domain" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Domain.csproj" t="IncludeRecursive" />
@@ -84,6 +84,7 @@
         <e p="webpack.config.js" t="Include" />
         <e p="wwwroot" t="Include">
           <e p="assets" t="Include">
+            <e p="2408e622a1682e80faf287446cbb2e29.jpg" t="Include" />
             <e p="bundle.js" t="Include" />
             <e p="bundle.js.map" t="Include" />
           </e>
